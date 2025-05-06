@@ -1,3 +1,4 @@
 # chat-app
-
-![ChatApp Logo](assets/Chat-App_logo.png)
+<p align="center">
+  <img src="assets/Chat-App_logo.png" alt="Logo de ChatApp" width="300"/>
+</p>
